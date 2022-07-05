@@ -12,7 +12,7 @@ export default function Top() {
             style={{ display: "block", width: 100 }}
           />
         </div>
-        <Header as="h1">안녕하세요</Header>
+        <Header as="h1">My next Shopping mall</Header>
       </div>
       <Gnb />
     </div>
